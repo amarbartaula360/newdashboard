@@ -17,14 +17,3 @@ This is a modern, responsive **School Management System** dashboard built with *
 - **Icons:** Lucide React
 
 ## 📦 Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
